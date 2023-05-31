@@ -1,0 +1,33 @@
+D:\XLA\C\MP10\MP10\bin\Debug\MP10.exe.config
+D:\XLA\C\MP10\MP10\bin\Debug\MP10.exe
+D:\XLA\C\MP10\MP10\bin\Debug\MP10.pdb
+D:\XLA\C\MP10\MP10\obj\Debug\MP10.csproj.AssemblyReference.cache
+D:\XLA\C\MP10\MP10\obj\Debug\MP10.csproj.SuggestedBindingRedirects.cache
+D:\XLA\C\MP10\MP10\obj\Debug\MP10.Form1.resources
+D:\XLA\C\MP10\MP10\obj\Debug\MP10.Properties.Resources.resources
+D:\XLA\C\MP10\MP10\obj\Debug\MP10.csproj.GenerateResource.cache
+D:\XLA\C\MP10\MP10\obj\Debug\MP10.csproj.CoreCompileInputs.cache
+D:\XLA\C\MP10\MP10\obj\Debug\MP10.exe
+D:\XLA\C\MP10\MP10\obj\Debug\MP10.pdb
+E:\hk2_năm3\XLA\XLA c#\MP_10\MP10\bin\Debug\MP10.exe.config
+E:\hk2_năm3\XLA\XLA c#\MP_10\MP10\bin\Debug\MP10.exe
+E:\hk2_năm3\XLA\XLA c#\MP_10\MP10\bin\Debug\MP10.pdb
+E:\hk2_năm3\XLA\XLA c#\MP_10\MP10\obj\Debug\MP10.csproj.AssemblyReference.cache
+E:\hk2_năm3\XLA\XLA c#\MP_10\MP10\obj\Debug\MP10.csproj.SuggestedBindingRedirects.cache
+E:\hk2_năm3\XLA\XLA c#\MP_10\MP10\obj\Debug\MP10.Form1.resources
+E:\hk2_năm3\XLA\XLA c#\MP_10\MP10\obj\Debug\MP10.Properties.Resources.resources
+E:\hk2_năm3\XLA\XLA c#\MP_10\MP10\obj\Debug\MP10.csproj.GenerateResource.cache
+E:\hk2_năm3\XLA\XLA c#\MP_10\MP10\obj\Debug\MP10.csproj.CoreCompileInputs.cache
+E:\hk2_năm3\XLA\XLA c#\MP_10\MP10\obj\Debug\MP10.exe
+E:\hk2_năm3\XLA\XLA c#\MP_10\MP10\obj\Debug\MP10.pdb
+E:\hk2_nam3\XLA\XLA c#\MP_10\MP10\bin\Debug\MP10.exe.config
+E:\hk2_nam3\XLA\XLA c#\MP_10\MP10\bin\Debug\MP10.exe
+E:\hk2_nam3\XLA\XLA c#\MP_10\MP10\bin\Debug\MP10.pdb
+E:\hk2_nam3\XLA\XLA c#\MP_10\MP10\obj\Debug\MP10.csproj.AssemblyReference.cache
+E:\hk2_nam3\XLA\XLA c#\MP_10\MP10\obj\Debug\MP10.csproj.SuggestedBindingRedirects.cache
+E:\hk2_nam3\XLA\XLA c#\MP_10\MP10\obj\Debug\MP10.Form1.resources
+E:\hk2_nam3\XLA\XLA c#\MP_10\MP10\obj\Debug\MP10.Properties.Resources.resources
+E:\hk2_nam3\XLA\XLA c#\MP_10\MP10\obj\Debug\MP10.csproj.GenerateResource.cache
+E:\hk2_nam3\XLA\XLA c#\MP_10\MP10\obj\Debug\MP10.csproj.CoreCompileInputs.cache
+E:\hk2_nam3\XLA\XLA c#\MP_10\MP10\obj\Debug\MP10.exe
+E:\hk2_nam3\XLA\XLA c#\MP_10\MP10\obj\Debug\MP10.pdb
