@@ -1,0 +1,55 @@
+C:\Users\TOAN\Desktop\Machine vision\MP6B\MP6B\bin\Debug\MP6B.exe.config
+C:\Users\TOAN\Desktop\Machine vision\MP6B\MP6B\bin\Debug\MP6B.exe
+C:\Users\TOAN\Desktop\Machine vision\MP6B\MP6B\bin\Debug\MP6B.pdb
+C:\Users\TOAN\Desktop\Machine vision\MP6B\MP6B\obj\Debug\MP6B.csproj.AssemblyReference.cache
+C:\Users\TOAN\Desktop\Machine vision\MP6B\MP6B\obj\Debug\MP6B.csproj.SuggestedBindingRedirects.cache
+C:\Users\TOAN\Desktop\Machine vision\MP6B\MP6B\obj\Debug\MP6B.Form1.resources
+C:\Users\TOAN\Desktop\Machine vision\MP6B\MP6B\obj\Debug\MP6B.Properties.Resources.resources
+C:\Users\TOAN\Desktop\Machine vision\MP6B\MP6B\obj\Debug\MP6B.csproj.GenerateResource.cache
+C:\Users\TOAN\Desktop\Machine vision\MP6B\MP6B\obj\Debug\MP6B.csproj.CoreCompileInputs.cache
+C:\Users\TOAN\Desktop\Machine vision\MP6B\MP6B\obj\Debug\MP6B.exe
+C:\Users\TOAN\Desktop\Machine vision\MP6B\MP6B\obj\Debug\MP6B.pdb
+C:\Users\TOAN\Desktop\Machine vision\MP6\MP6B\MP6B\bin\Debug\MP6B.exe.config
+C:\Users\TOAN\Desktop\Machine vision\MP6\MP6B\MP6B\bin\Debug\MP6B.exe
+C:\Users\TOAN\Desktop\Machine vision\MP6\MP6B\MP6B\bin\Debug\MP6B.pdb
+C:\Users\TOAN\Desktop\Machine vision\MP6\MP6B\MP6B\obj\Debug\MP6B.csproj.AssemblyReference.cache
+C:\Users\TOAN\Desktop\Machine vision\MP6\MP6B\MP6B\obj\Debug\MP6B.csproj.SuggestedBindingRedirects.cache
+C:\Users\TOAN\Desktop\Machine vision\MP6\MP6B\MP6B\obj\Debug\MP6B.Form1.resources
+C:\Users\TOAN\Desktop\Machine vision\MP6\MP6B\MP6B\obj\Debug\MP6B.Properties.Resources.resources
+C:\Users\TOAN\Desktop\Machine vision\MP6\MP6B\MP6B\obj\Debug\MP6B.csproj.GenerateResource.cache
+C:\Users\TOAN\Desktop\Machine vision\MP6\MP6B\MP6B\obj\Debug\MP6B.csproj.CoreCompileInputs.cache
+C:\Users\TOAN\Desktop\Machine vision\MP6\MP6B\MP6B\obj\Debug\MP6B.exe
+C:\Users\TOAN\Desktop\Machine vision\MP6\MP6B\MP6B\obj\Debug\MP6B.pdb
+C:\Users\ADMIN\Downloads\MP6\MP6\MP6B\MP6B\bin\Debug\MP6B.exe.config
+C:\Users\ADMIN\Downloads\MP6\MP6\MP6B\MP6B\bin\Debug\MP6B.exe
+C:\Users\ADMIN\Downloads\MP6\MP6\MP6B\MP6B\bin\Debug\MP6B.pdb
+C:\Users\ADMIN\Downloads\MP6\MP6\MP6B\MP6B\obj\Debug\MP6B.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\MP6\MP6\MP6B\MP6B\obj\Debug\MP6B.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Downloads\MP6\MP6\MP6B\MP6B\obj\Debug\MP6B.Form1.resources
+C:\Users\ADMIN\Downloads\MP6\MP6\MP6B\MP6B\obj\Debug\MP6B.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\MP6\MP6\MP6B\MP6B\obj\Debug\MP6B.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\MP6\MP6\MP6B\MP6B\obj\Debug\MP6B.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\MP6\MP6\MP6B\MP6B\obj\Debug\MP6B.exe
+C:\Users\ADMIN\Downloads\MP6\MP6\MP6B\MP6B\obj\Debug\MP6B.pdb
+E:\hk2_năm3\XLA\XLA c#\MP_6\MP6B\bin\Debug\MP6B.exe.config
+E:\hk2_năm3\XLA\XLA c#\MP_6\MP6B\bin\Debug\MP6B.exe
+E:\hk2_năm3\XLA\XLA c#\MP_6\MP6B\bin\Debug\MP6B.pdb
+E:\hk2_năm3\XLA\XLA c#\MP_6\MP6B\obj\Debug\MP6B.csproj.AssemblyReference.cache
+E:\hk2_năm3\XLA\XLA c#\MP_6\MP6B\obj\Debug\MP6B.csproj.SuggestedBindingRedirects.cache
+E:\hk2_năm3\XLA\XLA c#\MP_6\MP6B\obj\Debug\MP6B.Form1.resources
+E:\hk2_năm3\XLA\XLA c#\MP_6\MP6B\obj\Debug\MP6B.Properties.Resources.resources
+E:\hk2_năm3\XLA\XLA c#\MP_6\MP6B\obj\Debug\MP6B.csproj.GenerateResource.cache
+E:\hk2_năm3\XLA\XLA c#\MP_6\MP6B\obj\Debug\MP6B.csproj.CoreCompileInputs.cache
+E:\hk2_năm3\XLA\XLA c#\MP_6\MP6B\obj\Debug\MP6B.exe
+E:\hk2_năm3\XLA\XLA c#\MP_6\MP6B\obj\Debug\MP6B.pdb
+E:\hk2_nam3\XLA\XLA c#\MP_6\MP6B\bin\Debug\MP6B.exe.config
+E:\hk2_nam3\XLA\XLA c#\MP_6\MP6B\bin\Debug\MP6B.exe
+E:\hk2_nam3\XLA\XLA c#\MP_6\MP6B\bin\Debug\MP6B.pdb
+E:\hk2_nam3\XLA\XLA c#\MP_6\MP6B\obj\Debug\MP6B.csproj.AssemblyReference.cache
+E:\hk2_nam3\XLA\XLA c#\MP_6\MP6B\obj\Debug\MP6B.csproj.SuggestedBindingRedirects.cache
+E:\hk2_nam3\XLA\XLA c#\MP_6\MP6B\obj\Debug\MP6B.Form1.resources
+E:\hk2_nam3\XLA\XLA c#\MP_6\MP6B\obj\Debug\MP6B.Properties.Resources.resources
+E:\hk2_nam3\XLA\XLA c#\MP_6\MP6B\obj\Debug\MP6B.csproj.GenerateResource.cache
+E:\hk2_nam3\XLA\XLA c#\MP_6\MP6B\obj\Debug\MP6B.csproj.CoreCompileInputs.cache
+E:\hk2_nam3\XLA\XLA c#\MP_6\MP6B\obj\Debug\MP6B.exe
+E:\hk2_nam3\XLA\XLA c#\MP_6\MP6B\obj\Debug\MP6B.pdb
