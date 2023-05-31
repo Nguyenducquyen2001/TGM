@@ -1,0 +1,17 @@
+C:\Academic\Machine Vision\MP14_Color_Sobel_C#\Sobel\Sobel\bin\Debug\net6.0-windows\Sobel.exe
+C:\Academic\Machine Vision\MP14_Color_Sobel_C#\Sobel\Sobel\bin\Debug\net6.0-windows\Sobel.deps.json
+C:\Academic\Machine Vision\MP14_Color_Sobel_C#\Sobel\Sobel\bin\Debug\net6.0-windows\Sobel.runtimeconfig.json
+C:\Academic\Machine Vision\MP14_Color_Sobel_C#\Sobel\Sobel\bin\Debug\net6.0-windows\Sobel.dll
+C:\Academic\Machine Vision\MP14_Color_Sobel_C#\Sobel\Sobel\bin\Debug\net6.0-windows\Sobel.pdb
+C:\Academic\Machine Vision\MP14_Color_Sobel_C#\Sobel\Sobel\obj\Debug\net6.0-windows\Sobel.csproj.AssemblyReference.cache
+C:\Academic\Machine Vision\MP14_Color_Sobel_C#\Sobel\Sobel\obj\Debug\net6.0-windows\Sobel.Form1.resources
+C:\Academic\Machine Vision\MP14_Color_Sobel_C#\Sobel\Sobel\obj\Debug\net6.0-windows\Sobel.csproj.GenerateResource.cache
+C:\Academic\Machine Vision\MP14_Color_Sobel_C#\Sobel\Sobel\obj\Debug\net6.0-windows\Sobel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Academic\Machine Vision\MP14_Color_Sobel_C#\Sobel\Sobel\obj\Debug\net6.0-windows\Sobel.AssemblyInfoInputs.cache
+C:\Academic\Machine Vision\MP14_Color_Sobel_C#\Sobel\Sobel\obj\Debug\net6.0-windows\Sobel.AssemblyInfo.cs
+C:\Academic\Machine Vision\MP14_Color_Sobel_C#\Sobel\Sobel\obj\Debug\net6.0-windows\Sobel.csproj.CoreCompileInputs.cache
+C:\Academic\Machine Vision\MP14_Color_Sobel_C#\Sobel\Sobel\obj\Debug\net6.0-windows\Sobel.dll
+C:\Academic\Machine Vision\MP14_Color_Sobel_C#\Sobel\Sobel\obj\Debug\net6.0-windows\refint\Sobel.dll
+C:\Academic\Machine Vision\MP14_Color_Sobel_C#\Sobel\Sobel\obj\Debug\net6.0-windows\Sobel.pdb
+C:\Academic\Machine Vision\MP14_Color_Sobel_C#\Sobel\Sobel\obj\Debug\net6.0-windows\Sobel.genruntimeconfig.cache
+C:\Academic\Machine Vision\MP14_Color_Sobel_C#\Sobel\Sobel\obj\Debug\net6.0-windows\ref\Sobel.dll
