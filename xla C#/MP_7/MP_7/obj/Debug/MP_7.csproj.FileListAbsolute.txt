@@ -1,0 +1,33 @@
+D:\XLA\C\MP_7\MP_7\bin\Debug\MP_7.exe.config
+D:\XLA\C\MP_7\MP_7\bin\Debug\MP_7.exe
+D:\XLA\C\MP_7\MP_7\bin\Debug\MP_7.pdb
+D:\XLA\C\MP_7\MP_7\obj\Debug\MP_7.csproj.AssemblyReference.cache
+D:\XLA\C\MP_7\MP_7\obj\Debug\MP_7.csproj.SuggestedBindingRedirects.cache
+D:\XLA\C\MP_7\MP_7\obj\Debug\MP_7.Form1.resources
+D:\XLA\C\MP_7\MP_7\obj\Debug\MP_7.Properties.Resources.resources
+D:\XLA\C\MP_7\MP_7\obj\Debug\MP_7.csproj.GenerateResource.cache
+D:\XLA\C\MP_7\MP_7\obj\Debug\MP_7.csproj.CoreCompileInputs.cache
+D:\XLA\C\MP_7\MP_7\obj\Debug\MP_7.exe
+D:\XLA\C\MP_7\MP_7\obj\Debug\MP_7.pdb
+E:\hk2_năm3\XLA\XLA c#\MP_7\MP_7\bin\Debug\MP_7.exe.config
+E:\hk2_năm3\XLA\XLA c#\MP_7\MP_7\bin\Debug\MP_7.exe
+E:\hk2_năm3\XLA\XLA c#\MP_7\MP_7\bin\Debug\MP_7.pdb
+E:\hk2_năm3\XLA\XLA c#\MP_7\MP_7\obj\Debug\MP_7.csproj.AssemblyReference.cache
+E:\hk2_năm3\XLA\XLA c#\MP_7\MP_7\obj\Debug\MP_7.csproj.SuggestedBindingRedirects.cache
+E:\hk2_năm3\XLA\XLA c#\MP_7\MP_7\obj\Debug\MP_7.Form1.resources
+E:\hk2_năm3\XLA\XLA c#\MP_7\MP_7\obj\Debug\MP_7.Properties.Resources.resources
+E:\hk2_năm3\XLA\XLA c#\MP_7\MP_7\obj\Debug\MP_7.csproj.GenerateResource.cache
+E:\hk2_năm3\XLA\XLA c#\MP_7\MP_7\obj\Debug\MP_7.csproj.CoreCompileInputs.cache
+E:\hk2_năm3\XLA\XLA c#\MP_7\MP_7\obj\Debug\MP_7.exe
+E:\hk2_năm3\XLA\XLA c#\MP_7\MP_7\obj\Debug\MP_7.pdb
+E:\hk2_nam3\XLA\XLA c#\MP_7\MP_7\bin\Debug\MP_7.exe.config
+E:\hk2_nam3\XLA\XLA c#\MP_7\MP_7\bin\Debug\MP_7.exe
+E:\hk2_nam3\XLA\XLA c#\MP_7\MP_7\bin\Debug\MP_7.pdb
+E:\hk2_nam3\XLA\XLA c#\MP_7\MP_7\obj\Debug\MP_7.csproj.AssemblyReference.cache
+E:\hk2_nam3\XLA\XLA c#\MP_7\MP_7\obj\Debug\MP_7.csproj.SuggestedBindingRedirects.cache
+E:\hk2_nam3\XLA\XLA c#\MP_7\MP_7\obj\Debug\MP_7.Form1.resources
+E:\hk2_nam3\XLA\XLA c#\MP_7\MP_7\obj\Debug\MP_7.Properties.Resources.resources
+E:\hk2_nam3\XLA\XLA c#\MP_7\MP_7\obj\Debug\MP_7.csproj.GenerateResource.cache
+E:\hk2_nam3\XLA\XLA c#\MP_7\MP_7\obj\Debug\MP_7.csproj.CoreCompileInputs.cache
+E:\hk2_nam3\XLA\XLA c#\MP_7\MP_7\obj\Debug\MP_7.exe
+E:\hk2_nam3\XLA\XLA c#\MP_7\MP_7\obj\Debug\MP_7.pdb

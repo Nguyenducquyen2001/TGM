@@ -1,0 +1,33 @@
+E:\vs2022\MP9\MP9\obj\Debug\MP9.csproj.AssemblyReference.cache
+E:\vs2022\MP9\MP9\obj\Debug\MP9.csproj.SuggestedBindingRedirects.cache
+E:\vs2022\MP9\MP9\obj\Debug\MP9.Form1.resources
+E:\vs2022\MP9\MP9\obj\Debug\MP9.Properties.Resources.resources
+E:\vs2022\MP9\MP9\obj\Debug\MP9.csproj.GenerateResource.cache
+E:\vs2022\MP9\MP9\obj\Debug\MP9.csproj.CoreCompileInputs.cache
+E:\vs2022\MP9\MP9\bin\Debug\MP9.exe.config
+E:\vs2022\MP9\MP9\bin\Debug\MP9.exe
+E:\vs2022\MP9\MP9\bin\Debug\MP9.pdb
+E:\vs2022\MP9\MP9\obj\Debug\MP9.exe
+E:\vs2022\MP9\MP9\obj\Debug\MP9.pdb
+E:\hk2_năm3\XLA\XLA c#\MP_9\MP9\bin\Debug\MP9.exe.config
+E:\hk2_năm3\XLA\XLA c#\MP_9\MP9\bin\Debug\MP9.exe
+E:\hk2_năm3\XLA\XLA c#\MP_9\MP9\bin\Debug\MP9.pdb
+E:\hk2_năm3\XLA\XLA c#\MP_9\MP9\obj\Debug\MP9.csproj.AssemblyReference.cache
+E:\hk2_năm3\XLA\XLA c#\MP_9\MP9\obj\Debug\MP9.csproj.SuggestedBindingRedirects.cache
+E:\hk2_năm3\XLA\XLA c#\MP_9\MP9\obj\Debug\MP9.Form1.resources
+E:\hk2_năm3\XLA\XLA c#\MP_9\MP9\obj\Debug\MP9.Properties.Resources.resources
+E:\hk2_năm3\XLA\XLA c#\MP_9\MP9\obj\Debug\MP9.csproj.GenerateResource.cache
+E:\hk2_năm3\XLA\XLA c#\MP_9\MP9\obj\Debug\MP9.csproj.CoreCompileInputs.cache
+E:\hk2_năm3\XLA\XLA c#\MP_9\MP9\obj\Debug\MP9.exe
+E:\hk2_năm3\XLA\XLA c#\MP_9\MP9\obj\Debug\MP9.pdb
+E:\hk2_nam3\XLA\XLA c#\MP_9\MP9\bin\Debug\MP9.exe.config
+E:\hk2_nam3\XLA\XLA c#\MP_9\MP9\bin\Debug\MP9.exe
+E:\hk2_nam3\XLA\XLA c#\MP_9\MP9\bin\Debug\MP9.pdb
+E:\hk2_nam3\XLA\XLA c#\MP_9\MP9\obj\Debug\MP9.csproj.AssemblyReference.cache
+E:\hk2_nam3\XLA\XLA c#\MP_9\MP9\obj\Debug\MP9.csproj.SuggestedBindingRedirects.cache
+E:\hk2_nam3\XLA\XLA c#\MP_9\MP9\obj\Debug\MP9.Form1.resources
+E:\hk2_nam3\XLA\XLA c#\MP_9\MP9\obj\Debug\MP9.Properties.Resources.resources
+E:\hk2_nam3\XLA\XLA c#\MP_9\MP9\obj\Debug\MP9.csproj.GenerateResource.cache
+E:\hk2_nam3\XLA\XLA c#\MP_9\MP9\obj\Debug\MP9.csproj.CoreCompileInputs.cache
+E:\hk2_nam3\XLA\XLA c#\MP_9\MP9\obj\Debug\MP9.exe
+E:\hk2_nam3\XLA\XLA c#\MP_9\MP9\obj\Debug\MP9.pdb
